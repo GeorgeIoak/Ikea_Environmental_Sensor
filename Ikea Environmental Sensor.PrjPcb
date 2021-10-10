@@ -54,7 +54,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -122,7 +122,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -162,85 +162,89 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs\Design Rule Check - Ikea Environmental Sensor.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=CAGE_CODE
-Value=?????
+Name=SCH_REV
+Value=A
 
 [Parameter2]
-Name=CONTRACT_NUMBER
-Value=<CONTRACT NO>
-
-[Parameter3]
-Name=DOC_NO_ASSY_DWG
-Value=<ASSY DWG NO>
-
-[Parameter4]
-Name=DOC_NO_BOM
-Value=<BOM DOC NO>
-
-[Parameter5]
-Name=DOC_NO_FAB_DWG
-Value=<FAB DWG NO>
-
-[Parameter6]
-Name=DOC_NO_SCH_DWG
-Value=<SCH DWG NO>
-
-[Parameter7]
-Name=PCB_2_DEC_TOL
-Value=+/-.01
-
-[Parameter8]
-Name=PCB_3_DEC_TOL
-Value=+/-.010
-
-[Parameter9]
-Name=PCB_ANG_TOL
-Value=+/-1/2
-
-[Parameter10]
-Name=PCB_ASSEMBLY_NO
-Value=<PCB ASSY NO>
-
-[Parameter11]
-Name=PCB_CHECKER
-Value=GCI
-
-[Parameter12]
-Name=PCB_CHECKER_APP_DATE
-Value=--/--/----
-
-[Parameter13]
-Name=PCB_DESIGNER
-Value=GCI
-
-[Parameter14]
-Name=PCB_DESIGNER_APP_DATE
-Value=--/--/----
-
-[Parameter15]
-Name=PCB_DWG_NO
-Value=<PCB DWG NO>
-
-[Parameter16]
-Name=PCB_ENGINEER
-Value=GCI
-
-[Parameter17]
-Name=PCB_ENGINEER_APP_DATE
-Value=--/--/----
-
-[Parameter18]
-Name=PCB_PART_NUMBER
-Value=<PCB PN>
-
-[Parameter19]
 Name=PCB_REV
 Value=A
 
+[Parameter3]
+Name=PCB_PART_NUMBER
+Value=<PCB PN>
+
+[Parameter4]
+Name=PCB_ENGINEER_APP_DATE
+Value=--/--/----
+
+[Parameter5]
+Name=PCB_ENGINEER
+Value=GCI
+
+[Parameter6]
+Name=PCB_DWG_NO
+Value=<PCB DWG NO>
+
+[Parameter7]
+Name=PCB_DESIGNER_APP_DATE
+Value=--/--/----
+
+[Parameter8]
+Name=PCB_DESIGNER
+Value=GCI
+
+[Parameter9]
+Name=PCB_CHECKER_APP_DATE
+Value=--/--/----
+
+[Parameter10]
+Name=PCB_CHECKER
+Value=GCI
+
+[Parameter11]
+Name=PCB_ASSEMBLY_NO
+Value=<PCB ASSY NO>
+
+[Parameter12]
+Name=PCB_ANG_TOL
+Value=+/-1/2
+
+[Parameter13]
+Name=PCB_3_DEC_TOL
+Value=+/-.010
+
+[Parameter14]
+Name=PCB_2_DEC_TOL
+Value=+/-.01
+
+[Parameter15]
+Name=DOC_NO_SCH_DWG
+Value=<SCH DWG NO>
+
+[Parameter16]
+Name=DOC_NO_FAB_DWG
+Value=<FAB DWG NO>
+
+[Parameter17]
+Name=DOC_NO_BOM
+Value=<BOM DOC NO>
+
+[Parameter18]
+Name=DOC_NO_ASSY_DWG
+Value=<ASSY DWG NO>
+
+[Parameter19]
+Name=CONTRACT_NUMBER
+Value=<CONTRACT NO>
+
 [Parameter20]
-Name=SCH_REV
-Value=A
+Name=CAGE_CODE
+Value=?????
 
 [Configuration1]
 Name=Default Configuration
@@ -1221,8 +1225,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=GLIB.IntLib
-ComponentDesignItemID0=U_AZ1117CR-3.3TRG1_SOT89-3
-ComponentSymbolReference0=U_AZ1117CR-3.3TRG1_SOT89-3
+ComponentDesignItemID0=U_HDC1080DMBR_DFN6
+ComponentSymbolReference0=U_HDC1080DMBR_DFN6
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1262,15 +1266,14 @@ ParameterName10=Manufacturer_No
 ParameterUpdate10=1
 ParameterName11=Price
 ParameterUpdate11=1
-ParameterName12=Supplier 1
-ParameterUpdate12=1
-ParameterName13=Supplier Part Number 1
-ParameterUpdate13=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SOT223W
+ModelName0=DMB0006A
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=DMB0006A_NV
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
