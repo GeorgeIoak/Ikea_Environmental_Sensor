@@ -95,7 +95,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=Ikea Environmental Sensor.SchDoc
+DocumentPath=Ikea Environmental Sensor_Osc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -129,7 +129,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SJOAPIXG
 
 [Document6]
-DocumentPath=Ikea Environmental Sensor.PcbDoc
+DocumentPath=Ikea Environmental Sensor_Osc.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,90 +168,198 @@ Description=Prototype
 AllowFabrication=1
 ParameterCount=0
 VariationCount=1
-Variation1=Designator=H4|UniqueId=\PORHXMPN|Kind=1|AlternatePart= 
+Variation1=Designator=H4|UniqueId=\NWOVISAT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs\Design Rule Check - Ikea Environmental Sensor.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs\Design Rule Check - Ikea Environmental Sensor_Osc.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs\Assembly\Pick Place\Ikea Environmental Sensor_v1.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs\Fabrication\NC Drill\Ikea Environmental Sensor_v1.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs\Assembly\Test Points\Ikea Environmental Sensor_v1.0.ipc
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs\Fabrication\NC Drill\Ikea Environmental Sensor_v1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs\Fabrication\Gerber\Ikea Environmental Sensor_v1.0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs\Assembly\Pick Place\Ikea Environmental Sensor_v1.0.txt
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs\Assembly\Test Points\Ikea Environmental Sensor_v1.0.txt
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs\Fabrication\NC Drill\Ikea Environmental Sensor_v1.0.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs\Assembly\Bill of Materials\Ikea Environmental Sensor_v1.0_BOM.xlsx
+DItemRevisionGUID=
+
 [Parameter1]
+Name=RevisionNumber
+Value=1.0
+
+[Parameter2]
 Name=SCH_REV
 Value=A
 
-[Parameter2]
+[Parameter3]
 Name=PCB_REV
 Value=A
 
-[Parameter3]
+[Parameter4]
 Name=PCB_PART_NUMBER
 Value=<PCB PN>
 
-[Parameter4]
+[Parameter5]
 Name=PCB_ENGINEER_APP_DATE
 Value=--/--/----
 
-[Parameter5]
+[Parameter6]
 Name=PCB_ENGINEER
 Value=GCI
 
-[Parameter6]
+[Parameter7]
 Name=PCB_DWG_NO
 Value=<PCB DWG NO>
 
-[Parameter7]
+[Parameter8]
 Name=PCB_DESIGNER_APP_DATE
 Value=--/--/----
 
-[Parameter8]
+[Parameter9]
 Name=PCB_DESIGNER
 Value=GCI
 
-[Parameter9]
+[Parameter10]
 Name=PCB_CHECKER_APP_DATE
 Value=--/--/----
 
-[Parameter10]
+[Parameter11]
 Name=PCB_CHECKER
 Value=GCI
 
-[Parameter11]
+[Parameter12]
 Name=PCB_ASSEMBLY_NO
 Value=<PCB ASSY NO>
 
-[Parameter12]
+[Parameter13]
 Name=PCB_ANG_TOL
 Value=+/-1/2
 
-[Parameter13]
+[Parameter14]
 Name=PCB_3_DEC_TOL
 Value=+/-.010
 
-[Parameter14]
+[Parameter15]
 Name=PCB_2_DEC_TOL
 Value=+/-.01
 
-[Parameter15]
+[Parameter16]
 Name=DOC_NO_SCH_DWG
 Value=<SCH DWG NO>
 
-[Parameter16]
+[Parameter17]
 Name=DOC_NO_FAB_DWG
 Value=<FAB DWG NO>
 
-[Parameter17]
+[Parameter18]
 Name=DOC_NO_BOM
 Value=<BOM DOC NO>
 
-[Parameter18]
+[Parameter19]
 Name=DOC_NO_ASSY_DWG
 Value=<ASSY DWG NO>
 
-[Parameter19]
+[Parameter20]
 Name=CONTRACT_NUMBER
 Value=<CONTRACT NO>
 
-[Parameter20]
+[Parameter21]
 Name=CAGE_CODE
 Value=?????
 
@@ -1234,8 +1342,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=GLIB.IntLib
-ComponentDesignItemID0=U_HDC1080DMBR_DFN6
-ComponentSymbolReference0=U_HDC1080DMBR_DFN6
+ComponentDesignItemID0=OSC_40.0MHZ_3.3V_2.0x1.6
+ComponentSymbolReference0=OSC_40.0MHZ_3.3V_2.0x1.6
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1255,34 +1363,37 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=ComponentLink1Description
 ParameterUpdate2=1
-ParameterName3=Dist_No
+ParameterName3=ComponentLink1URL
 ParameterUpdate3=1
-ParameterName4=Distributor
+ParameterName4=Description
 ParameterUpdate4=1
-ParameterName5=HelpURL
+ParameterName5=Dist_No
 ParameterUpdate5=1
-ParameterName6=IOT
+ParameterName6=Distributor
 ParameterUpdate6=1
-ParameterName7=JLCPCB Part #
+ParameterName7=HelpURL
 ParameterUpdate7=1
-ParameterName8=Library Reference
+ParameterName8=IOT
 ParameterUpdate8=1
-ParameterName9=Manufacturer
+ParameterName9=Library Reference
 ParameterUpdate9=1
-ParameterName10=Manufacturer_No
+ParameterName10=Manufacturer
 ParameterUpdate10=1
-ParameterName11=Price
+ParameterName11=Manufacturer_No
 ParameterUpdate11=1
+ParameterName12=Price
+ParameterUpdate12=1
+ParameterName13=Supplier 1
+ParameterUpdate13=1
+ParameterName14=Supplier Part Number 1
+ParameterUpdate14=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=DMB0006A
+ModelName0=XTAL_2.0mmx1.6mm
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=DMB0006A_NV
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
