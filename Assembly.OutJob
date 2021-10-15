@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Assembly.OutJob
 Description=
-TargetOutputMedium=Assembly Files
+TargetOutputMedium=Bill Of Materials xls
 VariantName=Prototype
 VariantScope=1
 CurrentConfigurationName=
@@ -73,7 +73,7 @@ OutputName2=Generates pick and place files
 OutputCategory2=Assembly
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
@@ -88,7 +88,7 @@ OutputName3=Test Point Report
 OutputCategory3=Assembly
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
@@ -103,7 +103,7 @@ OutputName4=Bill of Materials
 OutputCategory4=Report
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=1
@@ -115,23 +115,23 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=ColumnNameFormat
 Configuration4_Item1=CaptionAsName
 Configuration4_Name2=General
-Configuration4_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\Other Templates\BOM TEMPLATE.xlt|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1547|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration4_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\george\Dropbox\Altium\Templates\BOM -GI.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1547|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration4_Name3=GroupOrder
-Configuration4_Item3=
+Configuration4_Item3=Manufacturer_No=True
 Configuration4_Name4=OutputConfigurationParameter1
 Configuration4_Item4=??
 Configuration4_Name5=SortOrder
 Configuration4_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|IOT=100|JLCPCB Part #=100
+Configuration4_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|IOT=100|JLCPCB Part #=100|Manufacturer=100|Manufacturer_No=100
 Configuration4_Name7=VisibleOrder_Flat
-Configuration4_Item7=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|IOT=100|JLCPCB Part #=100
+Configuration4_Item7=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|IOT=100|JLCPCB Part #=100|Manufacturer=100|Manufacturer_No=100
 OutputType5=Test Points For Assembly
 OutputName5=IPC-D-356 Netlist
 OutputCategory5=Assembly
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
