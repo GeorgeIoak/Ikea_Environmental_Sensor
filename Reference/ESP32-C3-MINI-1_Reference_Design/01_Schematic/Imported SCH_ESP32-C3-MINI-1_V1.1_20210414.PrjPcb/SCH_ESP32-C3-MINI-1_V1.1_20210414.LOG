@@ -1,0 +1,49 @@
+Importer Log Report
+Project : SCH_ESP32-C3-MINI-1_V1.1_20210414.PrjPcb
+
+Section : Document - C:\Users\george\Dropbox\Design\Ikea Environmental Sensor\Reference\ESP32-C3-MINI-1_Reference_Design\01_Schematic\SCH_ESP32-C3-MINI-1_V1.1_20210414.DSN
+
+    Section : Importing Sheet - 02_ESP32-C3-MINI-1.SchDoc
+        Warning : Power Port of type DGND at (78.74mm,149.86mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (144.78mm,63.5mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (154.94mm,88.9mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (33.02mm,132.08mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (15.24mm,132.08mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (53.34mm,132.08mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (104.14mm,193.04mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (132.08mm,193.04mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (144.78mm,88.9mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (33.02mm,109.22mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (53.34mm,109.22mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (22.86mm,109.22mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (185.42mm,104.14mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (121.92mm,170.18mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (111.76mm,200.66mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (33.02mm,152.4mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (53.34mm,152.4mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (276.86mm,154.94mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (205.74mm,78.74mm) was replaced with Arrow style port
+        Warning : Junction at (144.78mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (144.78mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.34mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.34mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (33.02mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (33.02mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.34mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.74mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.74mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (254mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (251.46mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (248.92mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (246.38mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (243.84mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (241.3mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (238.76mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (233.68mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (228.6mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (226.06mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.74mm,83.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (276.86mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (256.54mm,149.86mm) has been removed. It will be automatically calculated.
+    EndSection
+EndSection

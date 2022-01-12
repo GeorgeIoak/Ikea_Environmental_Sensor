@@ -1,0 +1,22 @@
+Designator Pattern                Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation
+
+Designator NordicSemi1        -27408mil     -12311mil       1126mil       -286mil     -27408mil     -12311mil  T         90.00
+Designator PCB Antenne        -27408mil     -12311mil        974mil   -278.339mil     -27408mil     -12311mil  T        360.00
+C2         0402s             682.511mil   -553.071mil    662.826mil   -553.071mil    662.826mil   -553.071mil  T        360.00
+J1         IDC8                111.5mil       -238mil       61.5mil        -88mil       61.5mil        -88mil  T        270.00
+U1         QFN20L/5x5        418.087mil    -259.87mil    351.158mil       -220mil    343.158mil       -220mil  T          0.00
+C7         0402s             359.315mil       -147mil        379mil       -147mil        379mil       -147mil  T        180.00
+C9         0402s             437.842mil       -114mil    418.157mil       -114mil    418.157mil       -114mil  T        360.00
+C8         0402s             437.685mil       -147mil        418mil       -147mil        418mil       -147mil  T        360.00
+R2         0402s                 504mil   -146.315mil        504mil       -166mil        504mil       -166mil  T         90.00
+L1         0402s                 543mil   -267.685mil        543mil       -248mil        543mil       -248mil  T        270.00
+L3         0402s             595.685mil       -247mil        576mil       -247mil        576mil       -247mil  T        360.00
+C6         0402s                 720mil   -224.815mil        720mil     -244.5mil        720mil     -244.5mil  T         90.00
+C5         0402s             669.315mil       -247mil        689mil       -247mil        689mil       -247mil  T        180.00
+C4         0402s             631.815mil     -366.5mil      651.5mil     -366.5mil      651.5mil     -366.5mil  T        180.00
+C3         0402s             633.315mil     -332.5mil        653mil     -332.5mil        653mil     -332.5mil  T        180.00
+L2         0402s                 577mil   -310.315mil        577mil       -330mil        577mil       -330mil  T         90.00
+R1         0402s             446.732mil   -372.071mil    427.047mil   -372.071mil    427.047mil   -372.071mil  T        360.00
+X1         Crystal 2         418.555mil   -488.071mil    231.547mil   -488.071mil    231.547mil   -488.071mil  T        360.00
+C1         0402s             165.083mil   -555.071mil    184.768mil   -555.071mil    184.768mil   -555.071mil  T        180.00
+

@@ -1,0 +1,36 @@
+Importer Log Report
+Project : SCH_ESP32-C3-WROOM-02_V1.6_20210413.PrjPcb
+
+Section : Import Document - C:\Users\george\Dropbox\Design\Ikea Environmental Sensor\Reference\ESP32-C3-WROOM-02_Reference_Design\01_Schematic\SCH_ESP32-C3-WROOM-02_V1.6_20210413.DSN
+
+    Section : Importing Sheet - 02_ESP32-C3-WROOM-02.SchDoc
+        Warning : Power Port of type DGND at (101.6mm,200.66mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (165.1mm,114.3mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (175.26mm,142.24mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (55.88mm,182.88mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (40.64mm,182.88mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (76.2mm,182.88mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (124.46mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (152.4mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (165.1mm,142.24mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (55.88mm,160.02mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (76.2mm,160.02mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (48.26mm,160.02mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (231.14mm,132.08mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (251.46mm,165.1mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (142.24mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (132.08mm,251.46mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (292.1mm,121.92mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (55.88mm,203.2mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (76.2mm,203.2mm) was replaced with Arrow style port
+        Warning : Junction at (76.2mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (175.26mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (40.64mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (165.1mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.14mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (124.46mm,220.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (152.4mm,220.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (76.2mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (76.2mm,193.04mm) has been removed. It will be automatically calculated.
+    EndSection
+EndSection

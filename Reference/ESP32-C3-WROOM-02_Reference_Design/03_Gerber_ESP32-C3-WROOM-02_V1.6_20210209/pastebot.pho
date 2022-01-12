@@ -1,0 +1,90 @@
+*
+*
+G04 PADS VX.2 Build Number: 5060570 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "PCB_ESP32-C3-WROOM-02_V"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD010C,0.001*%
+%ADD027C,0.00394*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name PCB_ESP32-C3-WROOM-02_V - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name PCB_ESP32-C3-WROOM-02_V - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name PCB_ESP32-C3-WROOM-02_V - circuitry*
+%LPD*%
+*
+G54D10*
+G01X100000Y178740D02*
+X100003D01*
+X170866D02*
+X170869D01*
+X100000Y100000D02*
+X100003D01*
+X100000Y178740D02*
+X100003D01*
+X171336Y100010D02*
+X171339D01*
+X171846Y103520D02*
+X171849D01*
+G54D27*
+X100000Y178740D02*
+X170866D01*
+Y100000*
+X100000*
+Y178740*
+X0Y0D02*
+M02*

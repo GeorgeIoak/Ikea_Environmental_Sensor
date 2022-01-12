@@ -1,0 +1,35 @@
+Importer Log Report
+Project : PCB_ESP32-C3-MINI-1_V1.1_20200929.PrjPcb
+
+Section : Document - C:\Users\george\Dropbox\Design\Ikea Environmental Sensor\Reference\ESP32-C3-MINI-1_Reference_Design\02_PCB\PCB_ESP32-C3-MINI-1_V1.1_20200929.asc
+
+    Section : Import Messages
+        Error   : Unsupported characters found in text string: 乐鑫信息科技（上海）股份有限公司 at: (20.225mil; -260.747mil)
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Layer
+        Error   : No designator found for component: ANT1
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Overlay
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Overlay
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Overlay
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Overlay
+        Error   : No designator found for component: U3
+    EndSection
+EndSection

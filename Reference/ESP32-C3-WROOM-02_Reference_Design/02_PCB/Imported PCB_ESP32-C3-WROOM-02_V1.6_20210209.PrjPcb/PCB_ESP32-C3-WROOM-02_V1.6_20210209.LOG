@@ -1,0 +1,49 @@
+Importer Log Report
+Project : PCB_ESP32-C3-WROOM-02_V1.6_20210209.PrjPcb
+
+Section : Document - C:\Users\george\Dropbox\Design\Ikea Environmental Sensor\Reference\ESP32-C3-WROOM-02_Reference_Design\02_PCB\PCB_ESP32-C3-WROOM-02_V1.6_20210209.asc
+
+    Section : Import Messages
+        Error   : Unsupported characters found in text string: 乐鑫信息科技（上海）股份有限公司 at: (111.541mil; -185.253mil)
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Error   : Undisplayed signal layer part type omitted for component: ANT1
+        Error   : No designator found for component: J1
+        Error   : No designator found for component: J10
+        Error   : No designator found for component: J11
+        Error   : No designator found for component: J12
+        Error   : No designator found for component: J13
+        Error   : No designator found for component: J14
+        Error   : No designator found for component: J15
+        Error   : No designator found for component: J16
+        Error   : No designator found for component: J17
+        Error   : No designator found for component: J18
+        Error   : No designator found for component: J2
+        Error   : No designator found for component: J3
+        Error   : No designator found for component: J4
+        Error   : No designator found for component: J5
+        Error   : No designator found for component: J6
+        Error   : No designator found for component: J7
+        Error   : No designator found for component: J8
+        Error   : No designator found for component: J9
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Bottom Solder Mask
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Solder Mask
+        Warning : Discarded 17 objects on unmapped PADS layer .
+    EndSection
+EndSection
