@@ -20,3 +20,5 @@ I kept a USB C connector for the power but since the ESP32-C3 has embedded USB I
 I kept the LEDs on the back of the board and placed them in the same locations so you can still use them as a visual status of the sensor.
 
 I did some initial testing with test code and everything appears to be working as expected but the complete software package has not been developed yet, life keeps getting in the way.
+
+![Prototype](https://github.com/GeorgeIoak/Ikea_Environmental_Sensor/blob/master/images/2021-10-28%2016.59.06.jpg "Prototype Fit")
