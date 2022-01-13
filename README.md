@@ -22,3 +22,8 @@ I kept the LEDs on the back of the board and placed them in the same locations s
 I did some initial testing with test code and everything appears to be working as expected but the complete software package has not been developed yet, life keeps getting in the way.
 
 ![Prototype](https://github.com/GeorgeIoak/Ikea_Environmental_Sensor/blob/master/images/2021-10-28%2016.59.06.jpg "Prototype Fit")
+
+## Some useful links to additional information:
+
+- https://github.com/pulsar256/vindriktning_esphome
+- https://blakadder.com/vindriktning-tasmota/
