@@ -10,6 +10,8 @@ Replacement Board for [Ikea Vindriktning PM2.5 Sensor](https://www.ikea.com/us/e
   - ~~SGP30 also works~~   SGP30 is the same package and pinout but SGP30 is a 1.8V part!
 - [TI HDC1080DMBR Temp/Humidity Sensor](https://www.ti.com/store/ti/en/p/product/?p=HDC1080DMBR)
   - Same package and pinout as the [Sensirion SHT21](https://www.sensirion.com/en/environmental-sensors/humidity-sensors/humidity-temperature-sensor-sht2x-digital-i2c-accurate/)
+  - The Sensirion SHT20, SHT21, and SHT25 have increasing accuracy and are pin/package compatible
+  - All the the SHT2x parts have the same I2C address of 0x40 which is the same as TI HDC1080DMBR
 - [QWiiC Connector](https://www.jst-mfg.com/product/pdf/eng/eSR.pdf) 1mm pitch standard I2C connector
 [- Everlight ALS-PT19 Light Sensor](https://en.everlight.com/sensor/category-ambient_light_sensor/analog_ambient_light_sensor/)
 
