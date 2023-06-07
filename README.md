@@ -13,7 +13,10 @@ Replacement Board for [Ikea Vindriktning PM2.5 Sensor](https://www.ikea.com/us/e
   - The Sensirion SHT20, SHT21, and SHT25 have increasing accuracy and are pin/package compatible
   - All the the SHT2x parts have the same I2C address of 0x40 which is the same as TI HDC1080DMBR
 - [QWiiC Connector](https://www.jst-mfg.com/product/pdf/eng/eSR.pdf) 1mm pitch standard I2C connector
-[- Everlight ALS-PT19 Light Sensor](https://en.everlight.com/sensor/category-ambient_light_sensor/analog_ambient_light_sensor/)
+- [Everlight ALS-PT19 Light Sensor](https://en.everlight.com/sensor/category-ambient_light_sensor/analog_ambient_light_sensor/)
+- The PM2.5 Sensor has a fan with a 2-pin power connector on it. After testing many different samples the [CAX 1.25-2A] (https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_CAX-1-25-2A_C722594.html) has a good fit.
+  - The [CAX 1.25T-2A] (https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_CAX-1-25T-2A_C722633.html) looks and fits the same. Not sure what the difference is.
+  - The CAX parts seem to maybe be a knock off of the [BooM Precision Electric 1.25T-2A] (https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-1-25T-2A_C10819.html) but I didn't get samples to verify
 
 For the existing PM2.5 Sensor I decided to add power control for the fan so new code to control the speed of the fan as well as when to turn it on. There is a level shifter between the PM2.5 communication header and the ESP32 since the fan operates at 5V and the ESP32 operates at 3.3V
 
